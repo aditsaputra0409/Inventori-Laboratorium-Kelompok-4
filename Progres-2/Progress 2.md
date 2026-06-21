@@ -21,7 +21,7 @@ ERD yang dirancang terdiri dari beberapa entitas utama yaitu:
 
 ### Diagram ERD
 
-> **Gambar 1.2 Diagram ERD**
+> ![Diagram ERD](./ERD%20Kelompok%204_Manajemen%20Inventori%20Laboratorium.png)
 >
 > 
 
