@@ -150,7 +150,8 @@ Data yang digunakan sebagai dasar pembuatan laporan inventaris secara berkala un
 
 Flowchart digunakan untuk menggambarkan alur kerja dan proses yang terjadi dalam Sistem Manajemen Inventori Laboratorium. Diagram ini memberikan gambaran mengenai tahapan pengelolaan inventaris, mulai dari proses input data barang, penyimpanan data ke dalam sistem, proses peminjaman dan pengembalian alat, hingga pembaruan stok dan pembuatan laporan inventaris.
 
-https://raw.githubusercontent.com/aditsaputra0409/Inventori-Laboratorium-Kelompok-4/main/Progres-1/Flowchart%20Kelompok%204.png
+![Flowchart Sistem](Flowchart%20Kelompok%204.png)
+
 
 ## 3.2 Penjelasan Flowchart
 
