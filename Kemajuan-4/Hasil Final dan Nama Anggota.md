@@ -39,8 +39,8 @@ Repository ini berisi dokumentasi lengkap mengenai proses analisis, perancangan,
 | No | Nama                | NIM        |
 | -- | ------------        | ---------- |
 | 1  | Aldi Saputra        | 2501020140 |
-| 2  | Farel               | 2501020133 |
-| 3  | Egi Fahrezi Winanda | 2501020134 |
+| 2  | Farel               | 2501020134 |
+| 3  | Egi Fahrezi Winanda | 2501020133 |
 | 4  | Payoga Kie          | 2501020131 |
 
 ## Penutup
