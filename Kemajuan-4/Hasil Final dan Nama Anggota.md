@@ -28,7 +28,7 @@ Pada tahap ini kelompok berhasil menyelesaikan:
 
 Laporan akhir proyek dapat diakses melalui file PDF berikut:
 
-📄 Laporan Akhir Sistem Manajemen Inventori Laboratorium.pdf
+📄 [Laporan Kelompok 4 SBD](./Laporan%20kelompok%204%20SBD.pdf)
 
 ## Repository
 
