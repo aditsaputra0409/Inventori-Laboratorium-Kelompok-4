@@ -41,7 +41,7 @@ Repository ini berisi dokumentasi lengkap mengenai proses analisis, perancangan,
 | 1  | Aldi Saputra        | 2501020140 |
 | 2  | Farel               | 2501020134 |
 | 3  | Egi Fahrezi Winanda | 2501020133 |
-| 4  | Payoga Kie          | 2501020131 |
+| 4  | Prayoga Kie          | 2501020131 |
 
 ## Penutup
 
